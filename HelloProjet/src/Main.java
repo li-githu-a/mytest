@@ -9,5 +9,6 @@ public class Main {
         System.out.println("HelloWorld2");
         System.out.println("HelloWorld4");
         System.out.println("repo2提交3");
+        System.out.println("repo2提交6");
     }
 }
